@@ -95,8 +95,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+html, body {
+    background: #333;
+    color: #fff;
+}
 pre, code { font-family: Hack, monospace; }
-
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poiret One', cursive;
+}
 
 
 
